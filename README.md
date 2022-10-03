@@ -23,6 +23,9 @@ If fail to delete, return false.
 * `C <id> <category> <x-coordinates> <y-coordinates>` – check if a point (x,y) is in the point
 set of specified category. Id, category and coordinates must match for check to be success.
 
+## Data
+Data generator files are also provided which will make test datasets for you to use.
+
 ## Run
 To compile, from the directory where NearestNeighFileBased.java is, execute:
 ```
